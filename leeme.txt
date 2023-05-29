@@ -1,0 +1,17 @@
+Para ejecutar el codigo estudioDiabetes.ipynb es necesario:
+
+1.Crear la carpeta en su gogle drive en la siguiente ruta:
+/content/drive/MyDrive/modelosEntregable/ y cargar diabetesMultivariable.csv en ese directorio
+
+En el script esta el codigo para montar google drive en el colab 
+
+
+2.El script LimpiezaDB.ipynb se usa para dar limpieza y balancear la base de datos.
+
+
+Para cualquier ayuda escribir:
+
+edwin.agudelo@udea.edu.co
+daniel.sanchez@udea.edu.co
+cristian.henao@udea.edu.co
+
